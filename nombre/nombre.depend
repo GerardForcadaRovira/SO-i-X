@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1537356158 source:/home/gerard/Desktop/nombre/main.cpp
+	<iostream>
+	<unistd.h>
+
+1537956007 source:/home/gerard/Desktop/nombre/main2.cpp
+	<iostream>
+	<unistd.h>
+	<sys/wait.h>
+
+1537957115 source:/home/gerard/Desktop/nombre/main3.cpp
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<string>
+	<vector>
+
