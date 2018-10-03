@@ -16,3 +16,24 @@
 	<string>
 	<vector>
 
+1538383484 source:/home/gerard/SO i X/nombre/main.cpp
+	<iostream>
+	<unistd.h>
+
+1538560593 source:/home/gerard/SO i X/nombre/main1oct.cpp
+	<iostream>
+	<unistd.h>
+	<sys/wait.h>
+	<fcntl.h>
+
+1538383474 source:/home/gerard/SO i X/nombre/main2.cpp
+	<iostream>
+	<unistd.h>
+	<sys/wait.h>
+
+1538563905 source:/home/gerard/SO i X/nombre/main3oct.cpp
+	<iostream>
+	<unistd.h>
+	<sys/wait.h>
+	<fcntl.h>
+
